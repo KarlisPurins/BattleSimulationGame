@@ -1,0 +1,11 @@
+D:\VisualStudioWorkspace\KursaDarbs\KursaDarbs\KursaDarbsDotNet\KursaDarbsDotNet\obj\Debug\KursaDarbsDotNet.csproj.AssemblyReference.cache
+D:\VisualStudioWorkspace\KursaDarbs\KursaDarbs\KursaDarbsDotNet\KursaDarbsDotNet\obj\Debug\KursaDarbsDotNet.ArmySelection.resources
+D:\VisualStudioWorkspace\KursaDarbs\KursaDarbs\KursaDarbsDotNet\KursaDarbsDotNet\obj\Debug\KursaDarbsDotNet.Battle.resources
+D:\VisualStudioWorkspace\KursaDarbs\KursaDarbs\KursaDarbsDotNet\KursaDarbsDotNet\obj\Debug\KursaDarbsDotNet.Properties.Resources.resources
+D:\VisualStudioWorkspace\KursaDarbs\KursaDarbs\KursaDarbsDotNet\KursaDarbsDotNet\obj\Debug\KursaDarbsDotNet.csproj.GenerateResource.cache
+D:\VisualStudioWorkspace\KursaDarbs\KursaDarbs\KursaDarbsDotNet\KursaDarbsDotNet\obj\Debug\KursaDarbsDotNet.csproj.CoreCompileInputs.cache
+D:\VisualStudioWorkspace\KursaDarbs\KursaDarbs\KursaDarbsDotNet\KursaDarbsDotNet\bin\Debug\KursaDarbsDotNet.exe.config
+D:\VisualStudioWorkspace\KursaDarbs\KursaDarbs\KursaDarbsDotNet\KursaDarbsDotNet\bin\Debug\KursaDarbsDotNet.exe
+D:\VisualStudioWorkspace\KursaDarbs\KursaDarbs\KursaDarbsDotNet\KursaDarbsDotNet\bin\Debug\KursaDarbsDotNet.pdb
+D:\VisualStudioWorkspace\KursaDarbs\KursaDarbs\KursaDarbsDotNet\KursaDarbsDotNet\obj\Debug\KursaDarbsDotNet.exe
+D:\VisualStudioWorkspace\KursaDarbs\KursaDarbs\KursaDarbsDotNet\KursaDarbsDotNet\obj\Debug\KursaDarbsDotNet.pdb
